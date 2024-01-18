@@ -5,5 +5,5 @@ This applcation allow user to upload their video to cloud and also get notificat
 
 - Please install android studio and java version 8
 - Install an emulator wil google supported / use physical device to connect
-- ensure your project structure and langguage has been updated
+- Ensure your project structure and langguage has been updated
   
